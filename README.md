@@ -1,4 +1,4 @@
-! [photo](https://m.media-amazon.com/images/I/613FOV49QpL._UF1000,1000_QL80_.jpg)
+[photo](https://m.media-amazon.com/images/I/613FOV49QpL._UF1000,1000_QL80_.jpg)
 
 # First_Assignment
 Anisul sir task day 1
